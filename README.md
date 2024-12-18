@@ -26,7 +26,12 @@ pip install pandas matplotlib numpy streamlit
 pip install -r requisitos.txt
 ```
 
-## Cómo ejecutar la aplicación
+## Cómo ejecutar la aplicación desde la terminal
 ```
 python ./src/app.py
+```
+
+## Cómo ejecutar la aplicación la Web
+```
+python ./src/app-web.py
 ```
