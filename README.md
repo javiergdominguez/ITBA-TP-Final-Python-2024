@@ -16,3 +16,7 @@ conda install jupyterlab==4.2.5
 ```
 git clone https://github.com/javiergdominguez/ITBA-TP-Final-Python-2024.git
 ```
+## Instalar pandas matplotlib numpy streamlit
+```
+pip pandas matplotlib numpy streamlit
+```
